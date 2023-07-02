@@ -80,7 +80,7 @@ class Settings():
         self.about_me = "Created by Matin Afzal:"
         
         # Url's
-        self.github_url = "https://github.com/MatinAfzal"
+        self.github_url = "https://github.com/MatinAfzal/TheJumonRunner"
 
     def reset(self):
         self.points = 0
