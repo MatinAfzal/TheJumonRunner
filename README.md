@@ -40,7 +40,7 @@ OR
 Clone of this repository: 
 
 ---
-    git clone https://github.com/MatinAfzal/TheJummonRunner
+    git clone https://github.com/MatinAfzal/TheJumonRunner
 ---
 
 
