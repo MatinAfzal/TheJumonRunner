@@ -50,7 +50,7 @@ Open cmd:
 ```
 C:\Windows\system32> cd ./<path>/TheJumonRunner
 
-C:\LOCAL MAP> python main.py
+C:\TheJumonRunner> python main.py
 
 ```
 
