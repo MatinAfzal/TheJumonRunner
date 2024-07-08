@@ -31,12 +31,6 @@ pygame           https://www.pygame.org/
 
 
 ## Installation
-You can download the execute version (.exe) of JummonRunner from here (recommended) Or you can clone this repository
-
-execute (.exe) download: https://github.com/MatinAfzal/TheJumonRunner/releases/tag/V0.0.1
-
-OR
-
 Clone of this repository: 
 
 ---
