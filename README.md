@@ -1,5 +1,7 @@
 ![JummonRunnerBanner](https://github.com/MatinAfzal/TheJumonRunner/assets/128434167/7856597d-ab7f-4f60-8d97-2f8933e0e963)
 
+> ⚠️ **Important:**  
+> At the time I was working on this project, my main goal was to get it running on my own machine. It hasn't been optimized for other environments, so you may run into issues.
 
 the jumon runner
 It is a game made with pygame library
